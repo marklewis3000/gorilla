@@ -1,0 +1,23 @@
+<package>
+  <name>gorilla</name>
+  <version>0.0.1</version>
+  <description>Gollilar catkin package</description>
+  <maintainer email="mark.lewis@gmail.com">Mark Lewis</maintainer>
+
+  <license>BSD</license>
+
+  
+  <author></author>
+
+  <buildtool_depend>catkin</buildtool_depend>
+  
+  <build_depend>pkg-config</build_depend>
+  <build_depend>roscpp</build_depend>
+
+  <run_depend>pkg-config</run_depend>
+  <run_depend>roscpp</run_depend>
+ 
+  <export>
+  </export>
+</package>
+
