@@ -11,7 +11,7 @@ find_package(catkin REQUIRED COMPONENTS geometry_msgs tf roscpp genmsg)
 
 find_package(PkgConfig)
 
-	catkin_package(
+catkin_package(
     INCLUDE_DIRS include
     LIBRARIES gorilla 
     CATKIN_DEPENDS 
